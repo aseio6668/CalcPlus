@@ -1,0 +1,11 @@
+[package]
+name = "calcsplus"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <your.email@example.com>"]
+description = "An elegant calculator app with standard and scientific modes"
+
+[dependencies]
+eframe = "0.28"
+egui = "0.28"
+serde = { version = "1.0", features = ["derive"] }
