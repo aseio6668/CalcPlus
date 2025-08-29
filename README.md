@@ -2,7 +2,7 @@
 
 CalcsPlus is an elegant and feature-rich calculator application built in Rust using the eframe/egui GUI framework. It provides both standard and scientific calculation modes with a classical Windows Calculator-inspired design.
 
-![logo](calcplus.png)
+
 
 ## Features
 
@@ -93,4 +93,5 @@ This project is open source. Feel free to use, modify, and distribute as needed.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests.
+
 
